@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0ccad99660acb4e8bc144b6bcb4442, type: 3}
+  m_Name: LudangLevelTable
+  m_EditorClassIdentifier: Assembly-CSharp::LudangLevelTable
+  levels:
+  - displayName: Ludang1
+    sprite: {fileID: -3311648085001236990, guid: d2fc18e6d4aa1984c951570c4106bc12, type: 3}
+    size: 0.6
+    mergeScore: 5
+  - displayName: Ludang2
+    sprite: {fileID: -3932085178444080934, guid: d74e4e3a6dea58e4b82bc5db7046b1a6, type: 3}
+    size: 0.9
+    mergeScore: 10
+  - displayName: Ludang3
+    sprite: {fileID: 5467262847299266040, guid: c3fdcbf7ae1de1542ace26c3f8912b52, type: 3}
+    size: 1.25
+    mergeScore: 25
+  - displayName: Ludang4
+    sprite: {fileID: -5180711587561649899, guid: 240ab6379c20fa145a11e812e0f9b3b7, type: 3}
+    size: 1.6
+    mergeScore: 60
+  - displayName: Ludang5
+    sprite: {fileID: 291337782648877976, guid: ceeffcf93a03d8a4dac51dd1f15cde41, type: 3}
+    size: 2.1
+    mergeScore: 150
+  - displayName: Ludang6
+    sprite: {fileID: -7100073887636370310, guid: dfbb711a96c250b4aae881035c0cfe94, type: 3}
+    size: 2.6
+    mergeScore: 200
+  - displayName: Ludang7
+    sprite: {fileID: 7304386035381906235, guid: 50e7c3c62a34fce4e9ecd8aa42eb966a, type: 3}
+    size: 3.35
+    mergeScore: 250
+  - displayName: Ludang8
+    sprite: {fileID: -6761456655459236205, guid: 9904b9ca145e99e479e11903b58b0fa7, type: 3}
+    size: 4.3
+    mergeScore: 300
